@@ -1,5 +1,18 @@
 # CalculatorSwift
 
-Calculator app developed using swift (storyboard)
+Calculator app for learning Storyboard autolayout. Based on Swift.
 
-![RPReplay_Final1655539432](https://user-images.githubusercontent.com/56328971/174428864-2bb696c9-c514-4d3c-925a-06ff3d510668.gif)
+## Built With
+
+* Swift
+* Storyboard
+
+## Demo
+
+| iPhone 12 | iPhone 8 |
+| ------------- | ------------- |
+| <img src="./assets/MainScreen.png" title="iPhone 12" width=200> | <img src="./assets/MainScreen-iPhone8.png" title="iPhone 8" width=200>  |
+
+## License
+
+GNU General Public License v3.0
